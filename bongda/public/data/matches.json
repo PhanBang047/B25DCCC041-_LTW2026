@@ -1,0 +1,21 @@
+{
+  "teams": [
+    { "id": "t1", "name": "Khoa CNTT" },
+    { "id": "t2", "name": "Khoa Điện tử" },
+    { "id": "t3", "name": "Khoa Cơ khí" },
+    { "id": "t4", "name": "Khoa Kinh tế" },
+    { "id": "t5", "name": "Khoa Ngoại ngữ" },
+    { "id": "t6", "name": "Khoa Xây dựng" }
+  ],
+  "matches": [
+    { "id": "m1", "round": 1, "homeId": "t1", "awayId": "t6", "homeScore": 2, "awayScore": 1 },
+    { "id": "m2", "round": 1, "homeId": "t2", "awayId": "t5", "homeScore": 0, "awayScore": 0 },
+    { "id": "m3", "round": 1, "homeId": "t3", "awayId": "t4", "homeScore": 1, "awayScore": 3 },
+    { "id": "m4", "round": 2, "homeId": "t1", "awayId": "t5", "homeScore": 3, "awayScore": 0 },
+    { "id": "m5", "round": 2, "homeId": "t6", "awayId": "t4", "homeScore": 1, "awayScore": 1 },
+    { "id": "m6", "round": 2, "homeId": "t2", "awayId": "t3", "homeScore": 2, "awayScore": 0 },
+    { "id": "m7", "round": 3, "homeId": "t1", "awayId": "t4", "homeScore": 1, "awayScore": 2 },
+    { "id": "m8", "round": 3, "homeId": "t5", "awayId": "t3", "homeScore": 2, "awayScore": 2 },
+    { "id": "m9", "round": 3, "homeId": "t6", "awayId": "t2", "homeScore": 0, "awayScore": 1 }
+  ]
+}
